@@ -27,3 +27,9 @@
     ```
     For more information, see the
     [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+## Guard 自动化测试
+《rails tutorial 4th》P115
+
+    ```
+    $ bundle exec guard init
+    ```
